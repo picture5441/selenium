@@ -15,7 +15,7 @@ class HomePage extends BasePage {
 
   async inputSearchValue(text) {
 
-    wait(this.url("https://www.tiffany.com/"), 5000);
+    this.driver.wait(until.elementLocated(By.xpath(xpath)), 5000);
     await this.driver.findElement(By.xpath(`//*[@id='searchInput']`)).sendKeys(text, Key.ENTER);
     return this;
   }
