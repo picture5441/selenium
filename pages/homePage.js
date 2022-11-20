@@ -5,8 +5,6 @@ class HomePage extends BasePage {
   async clickSearchButton() {
     const element = await this.findByXpath(`//*[@class='search-icon']`);
     element.click();
-
-    return this;
   }
 
   async inputSearchValue(text) {
