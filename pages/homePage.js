@@ -15,8 +15,8 @@ class HomePage extends BasePage {
 
   async inputSearchValue(text) {
 
-    await sleep(1000); 
-    await this.driver.findElement(By.xpath(`//*[@id='searchInput']`)).sendKeys(text, Key.ENTER);
+    
+     this.driver.findElement(By.xpath(`//*[@id='searchInput']`)).sendKeys(text, Key.ENTER);
 
     return this;
   }
