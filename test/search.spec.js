@@ -3,8 +3,6 @@ const HomePage = require("../pages/homePage");
 const SearchResultsPage = require("../pages/searchResultsPage");
 
 
-var driver = driver.Builder()
-.forBrowser('chrome');
 
 describe('Search.', () => {
   const pageUrl = 'https://www.tiffany.com/';
