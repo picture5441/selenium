@@ -12,7 +12,7 @@ class HomePage extends BasePage {
 
   async waitFullLoadPage() {
 
-    wait.until(ExpectedConditions.visibilityOf(this.findByXpath(`//*[@class='search-modal']`)));
+    this.driver.wait.until(ExpectedConditions.visibilityOf(this.findByXpath(`//*[@class='search-modal']`)));
 
     return this;
 
