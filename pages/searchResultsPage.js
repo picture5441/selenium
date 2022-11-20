@@ -9,13 +9,13 @@ class SearchResultsPage extends BasePage {
 
   async checkNoResultsMessage(message) {
     await this.findByXpath(`//span[contains(text(), '${message}')]`);
-    await this.findByXpath(`//span[@class='search-keywords' and contains(text(), '${this.searchValue}')]`)
+    await this.findByXpath(`//span[@class='nosearch__container_term' and contains(text(), '${this.searchValue}')]`)
 
     return this;
   }
 
   async checkSearchResults() {
-    await this.findByXpath(`//div[@class='search-result-title']/span[contains(text(), ${this.searchValue})]`);
+    await this.findByXpath(`//div[@class='selected-filters__container_list-item']/span[contains(text(), ${this.searchValue})]`);
 
     return this;
   }

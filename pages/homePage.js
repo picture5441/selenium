@@ -3,7 +3,7 @@ const BasePage = require("./basePage");
 
 class HomePage extends BasePage {
   async clickSearchButton() {
-    const element = await this.findByXpath(`//*[@class='search-link']`);
+    const element = await this.findByXpath(`//*[@class='search-icon']`);
     await element.click();
 
     return this;
@@ -11,7 +11,7 @@ class HomePage extends BasePage {
 
   async inputSearchValue(text) {
 
-    await this.driver.findElement(By.xpath(`//input[@name='q']`)).sendKeys(text, Key.ENTER);
+    await this.driver.findElement(By.xpath(`//input[@name='searchInput']`)).sendKeys(text, Key.ENTER);
 
     return this;
   }
