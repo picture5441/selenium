@@ -6,14 +6,14 @@ class HomePage extends BasePage {
   async clickSearchButton() {
     const element = await this.findByXpath(`//*[@class='search-icon']`);
     element.click();
-
-    browser.wait(EC.url("https://www.tiffany.com/"), 5000);
+    browser.wait(this.url("https://www.tiffany.com/"), 5000);
+    return this;
   }
 
   
   async inputSearchValue(text) {
 
-    await this.driver.findElement(By.xpath(`//*[@label='searchInput']`)).sendKeys(text, Key.ENTER);
+    await this.driver.findElement(By.xpath(`//*[@input='searchInput']`)).sendKeys(text, Key.ENTER);
 
     return this;
   }
