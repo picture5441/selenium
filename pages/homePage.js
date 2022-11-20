@@ -7,21 +7,15 @@ class HomePage extends BasePage {
     const element = await this.findByXpath(`//*[@class='search-icon']`);
     element.click();
 
+    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     return this;
   }
 
-async waitSearchButton() {
-    const element = await this.findByXpath(`//*[@class='search-modal']`);
-    element.click();
-
-    return this;
-    
-  }
 
   
   async inputSearchValue(text) {
 
-    await this.driver.findElement(By.xpath(`//input[@name='search-modal']`)).sendKeys(text, Key.ENTER);
+    await this.driver.findElement(By.xpath(`//input[@name='searchInput']`)).sendKeys(text, Key.ENTER);
 
     return this;
   }
