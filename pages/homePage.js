@@ -7,7 +7,7 @@ class HomePage extends BasePage {
     const element = await this.findByXpath(`//*[@class='search-icon']`);
     element.click();
 
-    return this;
+    browser.wait(EC.url("https://www.tiffany.com/"), 5000);
   }
 
   async waitFullLoadPage() {
