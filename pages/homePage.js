@@ -7,10 +7,16 @@ class HomePage extends BasePage {
     const element = await this.findByXpath(`//*[@class='search-icon']`);
     element.click();
 
-    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     return this;
   }
 
+  async waitFullLoadPage() {
+
+    wait.until(ExpectedConditions.visibilityOf(this.findByXpath(`//*[@class='search-modal']`)));
+
+    return this;
+
+  }
 
   
   async inputSearchValue(text) {
