@@ -10,18 +10,10 @@ class HomePage extends BasePage {
     browser.wait(EC.url("https://www.tiffany.com/"), 5000);
   }
 
-  async waitFullLoadPage() {
-
-    this.driver.wait.until(ExpectedConditions.visibilityOf(this.findByXpath(`//*[@class='search-modal__container']`)));
-
-    return this;
-
-  }
-
   
   async inputSearchValue(text) {
 
-    await this.driver.find_element_by_name('searchInput').sendKeys(text, Key.ENTER);
+    await this.driver.findElement(By.xpath(`//*[@label='searchInput']`)).sendKeys(text, Key.ENTER);
 
     return this;
   }
