@@ -15,7 +15,15 @@ async clickSearchButton() {
     element.click();
 
     return this;
+
+    _wait = new WebDriverWait(_driver, new TimeSpan(0, 1, 0));
+
+    _wait.Until(d => d.FindElement(By.xpath("searchInput")));
+    
   }
+
+  
+  
   
   async inputSearchValue(text) {
 
