@@ -11,7 +11,7 @@ describe('Search.', () => {
     const capabilities = {
       ...Capabilities.chrome(),
     };
-    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(webdriver.Capabilities.chrome()).build();
+    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(driver.Capabilities.chrome()).build();
     await this.driver.manage().window().maximize();
   });
 
