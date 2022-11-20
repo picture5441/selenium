@@ -3,15 +3,16 @@ const BasePage = require("./basePage");
 
 class HomePage extends BasePage {
 
-  function () {
+  async clickSearchButton() {
     const element = this.findByXpath(`//*[@class='search-icon']`);
     element.click();
     browser.wait(this.url("https://www.tiffany.com/"), 5000);
     return this;
   }
 
-  
-   function (text) {
+ 
+
+  async inputSearchValue(text) {
 
      this.driver.findElement(By.xpath(`//*[@id='searchInput']`)).sendKeys(text, Key.ENTER);
 
