@@ -9,7 +9,7 @@ describe('Search.', () => {
     const capabilities = {
       ...Capabilities.chrome(),
     };
-    this.driver = await new Builder().usingServer('http://localhost:8081').withCapabilities(capabilities).build();
+    this.driver = await new Builder().usingServer('http://localhost:8081/wd/hub').withCapabilities(capabilities).build();
     await this.driver.manage().window().maximize();
   });
 
