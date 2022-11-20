@@ -1,7 +1,6 @@
 const { Builder, Capabilities, } = require('selenium-webdriver');
 const HomePage = require("../pages/homePage");
 const SearchResultsPage = require("../pages/searchResultsPage");
-var webdriver = require('selenium-webdriver');
 
 
 
@@ -12,7 +11,7 @@ describe('Search.', () => {
     const capabilities = {
       ...Capabilities.chrome(),
     };
-    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(webdriver.Capabilities.chrome()).build();
+    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(Capabilities.chrome()).build();
     await this.driver.manage().window().maximize();
   });
 
