@@ -2,7 +2,6 @@ const { expect } = require('chai');
 const { Builder, Capabilities, } = require('selenium-webdriver');
 const HomePage = require("../pages/homePage");
 const EmptyBagPage = require('../pages/emptybagPage');
-var chromedriver = require('chromedriver');
 var webdriver = require('selenium-webdriver');
 
 describe('Show empty shopping cart.', () => {
