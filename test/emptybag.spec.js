@@ -10,7 +10,7 @@ describe('Show empty shopping cart.', () => {
     const capabilities = {
       ...Capabilities.chrome(),
     };
-    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(capabilities).build();
+    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(capabilities).forBrowser('chrome').build();
     await this.driver.manage().window().maximize();
   });
 

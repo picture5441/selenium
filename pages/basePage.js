@@ -1,9 +1,7 @@
 const { By, until, WebDriver } = require("selenium-webdriver");
 
+new Builder().forBrowser('chrome').build();
 
-chrome_driver = 'C:\Program Files (x86)\_webdrivers\chromedriver\chromedriver.exe'
-
-driver = webdriver.Chrome(chrome_driver)
 
 class BasePage {
   constructor(driver) {
