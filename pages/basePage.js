@@ -1,6 +1,5 @@
 const { By, until, WebDriver } = require("selenium-webdriver");
 
-new Builder().forBrowser('chrome').build();
 
 
 class BasePage {
