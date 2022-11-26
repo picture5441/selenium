@@ -1,4 +1,9 @@
-const { By, until } = require("selenium-webdriver");
+const { By, until, WebDriver } = require("selenium-webdriver");
+
+
+chrome_driver = 'C:\Program Files (x86)\_webdrivers\chromedriver\chromedriver.exe'
+
+driver = webdriver.Chrome(chrome_driver)
 
 class BasePage {
   constructor(driver) {
