@@ -1,5 +1,5 @@
 const BasePage = require("./basePage");
-const { By } = require("selenium-webdriver");
+
 
 
 class EmptyBagPage extends BasePage {
@@ -8,11 +8,10 @@ class EmptyBagPage extends BasePage {
       this.emptybagValue = emptybagValue;
     }
 
-    async checkEmptybagMessage(message) {
-        await this.findByXpath(`//span[contains(text(), '${message}')]`);
+    async checkEmptybagMessage() {
         await this.findByXpath(`//span[@class='type-aem-b-sb' and contains(text(), '${this.emptybagValue}')]`)
         return this;
       }
     }
 
-    module.exports = EmptyBagPage
+    module.exports = EmptyBagPage;

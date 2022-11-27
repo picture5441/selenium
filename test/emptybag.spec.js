@@ -1,7 +1,7 @@
-const { expect } = require('chai');
+
 const { Builder, Capabilities, } = require('selenium-webdriver');
-const HomePage = require("../pages/homePage");
 const EmptyBagPage = require('../pages/emptybagPage');
+const HomePage = require("../pages/homePage");
 const chrome = require('selenium-webdriver/chrome');
 
 
@@ -12,7 +12,7 @@ describe('Show empty shopping cart.', () => {
     const capabilities = {
       ...Capabilities.chrome(),
     };
-    this.driver = await new chrome.Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(capabilities).forBrowser('chrome').build();
+    this.driver = await new Builder().usingServer('http://localhost:4444/wd/hub').withCapabilities(capabilities).forBrowser('chrome').build();
     await this.driver.manage().window().maximize();
   });
 
@@ -25,8 +25,8 @@ describe('Show empty shopping cart.', () => {
     await homePage.clickBagButton(emptybagValue);
 
 
-    const searchResultsPage = new EmptyBagPage(this.driver, commonSearchValue);
-    await searchResultsPage.checkEmptybagMessage();                       
+    const emptybagPage = new EmptyBagPage(this.driver, emptybagValue);
+    await emptybagPage.checkEmptybagMessage();                       
 
   }).timeout(20000);
 

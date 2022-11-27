@@ -1,0 +1,240 @@
+"" 
+
+Sun Nov 27 2022 03:20:58:430 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Sun Nov 27 2022 03:20:58:431 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Sun Nov 27 2022 03:21:00:225 GMT+0300 (Беларусь (зима)) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 20460
+Sun Nov 27 2022 03:21:00:977 GMT+0300 (Беларусь (зима)) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Nov 27 2022 03:21:01:73 GMT+0300 (Беларусь (зима)) -- Connecting to BrowserStack using WebSocket protocol...
+Sun Nov 27 2022 03:21:01:73 GMT+0300 (Беларусь (зима)) -- Platform supports WebSocket connections.
+
+Sun Nov 27 2022 03:21:01:177 GMT+0300 (Беларусь (зима)) -- Press Ctrl-C to exit
+
+
+Sun Nov 27 2022 03:21:01:307 GMT+0300 (Беларусь (зима)) -- Starting configuration console on http://localhost:45454
+Sun Nov 27 2022 03:21:19:1 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:19:2 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:19:58 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:19:92 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:19:200 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:19:200 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:19:201 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:19:202 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:492 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:492 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:496 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:24:499 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:660 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:661 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:24:661 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:24:662 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:49:473 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:21:49:473 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:21:51:59 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:51:59 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:51:125 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:51:140 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:51:350 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:51:350 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:21:51:350 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:21:51:351 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:22:24:312 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:22:24:313 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+
+Sun Nov 27 2022 03:29:45:795 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Sun Nov 27 2022 03:29:45:795 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Sun Nov 27 2022 03:29:45:979 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:29:45:979 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45691 is available to use
+Sun Nov 27 2022 03:29:45:979 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:29:45:986 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:29:45:986 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45690 is available to use
+Sun Nov 27 2022 03:29:45:986 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:29:45:986 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:29:45:986 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:30:05:217 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:05:217 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:05:246 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:30:05:246 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:05:356 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:05:356 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:05:356 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:30:05:356 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:13:429 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:13:429 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:13:434 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:30:13:437 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:22:867 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:22:868 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:22:871 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:30:22:879 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:23:72 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:23:72 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:30:23:74 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:30:23:74 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+
+Sun Nov 27 2022 03:31:34:408 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Sun Nov 27 2022 03:31:34:409 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Sun Nov 27 2022 03:31:34:596 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:31:34:596 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45691 is available to use
+Sun Nov 27 2022 03:31:34:596 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:31:34:606 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:31:34:606 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45690 is available to use
+Sun Nov 27 2022 03:31:34:606 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:31:34:606 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:31:34:606 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:31:51:742 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:51:742 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:51:748 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:31:51:751 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:51:909 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:51:909 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:51:910 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:31:51:910 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:537 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:537 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:547 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:31:56:547 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:801 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:801 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:31:56:802 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:31:56:802 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:769 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:769 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:776 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:32:05:776 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:896 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:896 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:05:896 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:32:05:896 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:32:32:946 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:32:32:946 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+
+Sun Nov 27 2022 03:37:04:504 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Sun Nov 27 2022 03:37:04:504 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Sun Nov 27 2022 03:37:04:913 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:37:04:913 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45691 is available to use
+Sun Nov 27 2022 03:37:04:913 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:37:04:985 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:37:04:985 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45690 is available to use
+Sun Nov 27 2022 03:37:04:985 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:37:04:986 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:37:04:987 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:37:25:76 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:25:76 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:25:105 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:25:146 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:25:240 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:25:240 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:25:240 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:25:246 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:30:916 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:30:916 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:30:926 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:30:926 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:246 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:246 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:255 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:31:255 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:278 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:278 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:279 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:31:279 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:445 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:445 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:31:445 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:31:445 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:314 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:315 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:324 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:48:328 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:420 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:420 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:37:48:421 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:37:48:421 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:38:21:83 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:38:21:83 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:38:27:82 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:82 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:93 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:38:27:94 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:183 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:183 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:183 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:38:27:184 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:38:27:329 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:38:27:329 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:38:27:344 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:38:27:345 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:38:27:442 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:38:27:442 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:38:27:443 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:38:27:443 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:358 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:358 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:368 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:39:21:369 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:460 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:460 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:461 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:39:21:462 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:39:21:602 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:602 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:613 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:39:21:614 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:699 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:699 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:39:21:700 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:39:21:700 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443
+
+Sun Nov 27 2022 03:39:56:54 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Sun Nov 27 2022 03:39:56:55 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Sun Nov 27 2022 03:39:56:276 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:39:56:276 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45691 is available to use
+Sun Nov 27 2022 03:39:56:276 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:39:56:287 GMT+0300 (Беларусь (зима)) -- [ERROR] Necessary ports to start BrowserStack Binary were occupied by PID: -
+Sun Nov 27 2022 03:39:56:288 GMT+0300 (Беларусь (зима)) -- [ERROR] Please ensure that 45690 is available to use
+Sun Nov 27 2022 03:39:56:288 GMT+0300 (Беларусь (зима)) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Nov 27 2022 03:39:56:288 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:39:56:288 GMT+0300 (Беларусь (зима)) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Sun Nov 27 2022 03:40:14:696 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:14:696 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:14:707 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:14:711 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:14:835 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:14:835 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:14:835 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:14:835 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:236 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:236 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:245 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:20:250 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:331 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:331 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:20:332 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:20:333 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:38:898 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:38:898 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:38:901 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:38:906 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:39:94 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:39:94 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:39:96 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:40:39:97 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Sun Nov 27 2022 03:40:52:409 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:40:52:409 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+Sun Nov 27 2022 03:41:17:426 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:426 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:429 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:41:17:430 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:760 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:760 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:761 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:41:17:761 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.microsoft.com:443
+Sun Nov 27 2022 03:41:17:948 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:41:17:949 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:41:17:952 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:41:17:952 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:41:18:111 GMT+0300 (Беларусь (зима)) -- Request to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:41:18:111 GMT+0300 (Беларусь (зима)) -- Connecting to: staging.to-do.officeppe.com:443
+Sun Nov 27 2022 03:41:18:111 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Sun Nov 27 2022 03:41:18:112 GMT+0300 (Беларусь (зима)) -- Failed connecting to: staging.to-do.officeppe.com:443

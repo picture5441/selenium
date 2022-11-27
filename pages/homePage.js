@@ -5,14 +5,14 @@ const BasePage = require("./basePage");
 class HomePage extends BasePage {
 
   async clickSearchButton() {
-    const element = this.findByXpath(`//*[@class='search-icon']`);
+    const element = await this.findByXpath(`//*[@class='search-icon']`);
     await element.click();
     return this;
   }
 
 
   async clickBagButton() {
-    const element = this.findByXpath(`//[@class='shoppingbag']`)
+    const element = await this.findByXpath("//div[@class='shoppingbagEmpty-icon']")
     await element.click();
     return this;
   }
