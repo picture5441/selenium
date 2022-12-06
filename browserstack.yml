@@ -1,10 +1,10 @@
-userName: vladislavabramov_X73dgk
-accessKey: oiepzFceq4SFAxJzVP1Z
+userName: igorlyatskiy_txw3qv
+accessKey: Lx9SdfHyPnASLyA2Xpqn
 platforms:
   - os: Windows
     osVersion: 11
     browserName: Chrome
-    browserVersion: 103.0
+    browserVersion: latest-beta
 parallelsPerPlatform: 1
 browserstackLocal: true
 buildName: browserstack-build-1
