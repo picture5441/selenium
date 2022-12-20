@@ -19,8 +19,8 @@ class HomePage extends BasePage {
 
 
   async inputSearchValue(text) {
-    this.driver.wait(until.elementLocated(By.xpath('//*[@id="tiffany-search-modal"]/tiffany-search-modal/div/div')), 5000);
-    await this.driver.findElement(By.xpath(`//*[@id='searchInput']`)).sendKeys(text, Key.ENTER);
+    const element = await this.findByXpath(`//*[@id='searchInput']`);
+    await element.sendKeys(text, Key.ENTER);
     return this;
   }
 }

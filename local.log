@@ -1,0 +1,102 @@
+"" 
+
+Tue Dec 20 2022 13:05:28:403 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Tue Dec 20 2022 13:05:28:403 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Tue Dec 20 2022 13:05:31:278 GMT+0300 (Беларусь (зима)) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 8924
+Tue Dec 20 2022 13:05:31:390 GMT+0300 (Беларусь (зима)) -- Starting configuration console on http://localhost:45454
+Tue Dec 20 2022 13:05:31:917 GMT+0300 (Беларусь (зима)) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Tue Dec 20 2022 13:05:32:138 GMT+0300 (Беларусь (зима)) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Dec 20 2022 13:05:32:138 GMT+0300 (Беларусь (зима)) -- Platform supports WebSocket connections.
+
+Tue Dec 20 2022 13:05:32:244 GMT+0300 (Беларусь (зима)) -- Press Ctrl-C to exit
+
+
+Tue Dec 20 2022 13:06:07:797 GMT+0300 (Беларусь (зима)) -- Request to: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:07:797 GMT+0300 (Беларусь (зима)) -- Connecting to: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:07:919 GMT+0300 (Беларусь (зима)) -- Connected to: 178.249.101.23
+Tue Dec 20 2022 13:06:08:533 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:08:577 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:08:577 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:08:994 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:06:19:698 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:19:698 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:19:743 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:06:19:759 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:20:511 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:20:511 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:20:511 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:06:20:511 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:192 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:192 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:203 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:06:28:246 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:502 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:502 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:28:502 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:06:28:502 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:06:50:5 GMT+0300 (Беларусь (зима)) -- Request to: sync.search.spotxchange.com:443
+Tue Dec 20 2022 13:06:50:5 GMT+0300 (Беларусь (зима)) -- Connecting to: sync.search.spotxchange.com:443
+Tue Dec 20 2022 13:06:50:208 GMT+0300 (Беларусь (зима)) -- Connected to: 185.94.180.125
+Tue Dec 20 2022 13:07:00:351 GMT+0300 (Беларусь (зима)) --  Error on upstream socket:  { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' } refid =  30753413
+
+Tue Dec 20 2022 13:07:15:716 GMT+0300 (Беларусь (зима)) -- Binary semantic version is v8.8.4
+Tue Dec 20 2022 13:07:15:716 GMT+0300 (Беларусь (зима)) -- Setting output as extra verbose with request parsing
+Tue Dec 20 2022 13:07:16:44 GMT+0300 (Беларусь (зима)) -- Received runtime exception: Error: spawn powershell.exe ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:240:19)
+    at onErrorNT (internal/child_process.js:415:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Tue Dec 20 2022 13:07:16:44 GMT+0300 (Беларусь (зима)) -- Exiting.
+Tue Dec 20 2022 13:07:35:158 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:158 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:168 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:07:35:222 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:365 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:365 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:373 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:07:35:375 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:35:584 GMT+0300 (Беларусь (зима)) -- Request to: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:35:584 GMT+0300 (Беларусь (зима)) -- Connecting to: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:35:643 GMT+0300 (Беларусь (зима)) -- Connected to: 178.249.101.23
+Tue Dec 20 2022 13:07:35:887 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:35:973 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:96 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:190 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:193 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:235 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:289 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:457 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:457 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:596 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:601 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:683 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:683 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:683 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:688 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:688 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:717 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:717 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:726 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:726 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:730 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:730 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:767 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:767 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:36:801 GMT+0300 (Беларусь (зима)) -- Writing response from: lptag.liveperson.net:443
+Tue Dec 20 2022 13:07:42:100 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:42:100 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:42:125 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:07:42:169 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:42:352 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:42:352 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:07:42:353 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:07:42:354 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:628 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:628 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:640 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:08:00:653 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:764 GMT+0300 (Беларусь (зима)) -- Request to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:764 GMT+0300 (Беларусь (зима)) -- Connecting to: px.surveywall-api.survata.com:443
+Tue Dec 20 2022 13:08:00:765 GMT+0300 (Беларусь (зима)) -- Connecting with 6
+Tue Dec 20 2022 13:08:00:768 GMT+0300 (Беларусь (зима)) -- Failed connecting to: px.surveywall-api.survata.com:443

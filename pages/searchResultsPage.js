@@ -7,11 +7,9 @@ class SearchResultsPage extends BasePage {
     this.searchValue = searchValue;
   }
 
-  async checkNoResultsMessage(message) {
-    await this.findByXpath(`//span[contains(text(), '${message}')]`);
-    await this.findByXpath(`//span[@class='nosearch__container_term' and contains(text(), '${this.searchValue}')]`)
-
-    return this;
+  async checkNoResultsMessage() {
+    const element = await this.findByXpath(`//*[@class='nosearch__container']`);
+    return element.getText();
   }
 
   async checkSearchResults() {
